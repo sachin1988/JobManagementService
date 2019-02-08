@@ -1,0 +1,204 @@
+2019-02-07 04:03:12 INFO  StartDemo:48 - Thu Feb 07 04:03:12 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 04:03:14 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:03:14 INFO  ScheduleJobFormImpl:63 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:03:18 INFO  ScheduleJobFormImpl:164 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:03:18 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:03:58 INFO  FileUtils:41 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 04:04:41 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:05:04 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:05:04 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 04:05:04 ERROR JobManagementServiceImpl:58 - Exception occured in method JobManagementServiceImpl.scheduleJob()java.lang.NullPointerException
+2019-02-07 04:11:08 INFO  StartDemo:48 - Thu Feb 07 04:11:08 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 04:11:09 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:11:09 INFO  ScheduleJobFormImpl:63 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:11:09 INFO  ScheduleJobFormImpl:164 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:11:10 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:11:41 INFO  FileUtils:41 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 04:11:55 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:12:10 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:12:24 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 04:16:50 INFO  StartDemo:48 - Thu Feb 07 04:16:50 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 04:16:50 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:16:50 INFO  ScheduleJobFormImpl:63 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:16:51 INFO  ScheduleJobFormImpl:164 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 04:16:51 INFO  CheckJobStatusFormImpl:88 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 04:17:25 INFO  FileUtils:41 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 04:17:33 INFO  JobManagementServiceWrapper:39 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:17:33 INFO  JobManagementServiceWrapper:46 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 04:17:33 INFO  JobManagementServiceImpl:27 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 04:17:33 INFO  SchedulerServiceImpl:179 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 04:17:33 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 04:17:33 INFO  SchedulerServiceImpl:34 - Start of the method SchedulerServiceImpl.start()
+2019-02-07 04:17:33 INFO  JobManagementServiceImpl:48 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 04:17:33 INFO  SchedulerServiceImpl:110 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 04:17:33 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 04:19:51 INFO  SchedulerServiceImpl:83 - End of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 04:19:51 INFO  SchedulerServiceImpl:64 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 13:53:29 INFO  StartDemo:48 - Thu Feb 07 13:53:29 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 13:53:31 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 13:53:31 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 13:53:33 INFO  ScheduleJobFormImpl:197 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 13:53:33 INFO  CheckJobStatusFormImpl:96 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 13:54:03 INFO  FileUtils:53 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 13:54:11 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 13:54:11 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 13:54:11 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 13:54:11 INFO  SchedulerServiceImpl:182 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 13:54:11 INFO  SchedulerServiceImpl:120 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 13:54:11 INFO  SchedulerServiceImpl:34 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 13:54:11 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 13:54:11 INFO  SchedulerServiceImpl:74 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 13:54:11 INFO  SchedulerServiceImpl:120 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 13:54:38 INFO  JobManagementServiceWrapper:110 - List of success jobsListener Job   com.jobmanagement.temp.jobs.JobFirst@32a16ce9
+2019-02-07 13:54:51 INFO  JobManagementServiceWrapper:89 - List of queued jobs Item : UploadFile.jar  com.jobmanagement.services.SchedulerServiceImpl$JobTimer@738bc3d0
+2019-02-07 13:54:56 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : Listener Job   com.jobmanagement.temp.jobs.JobFirst@32a16ce9
+2019-02-07 13:55:07 INFO  JobManagementServiceWrapper:89 - List of queued jobs Item : UploadFile.jar  com.jobmanagement.services.SchedulerServiceImpl$JobTimer@738bc3d0
+2019-02-07 13:55:11 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : Listener Job   com.jobmanagement.temp.jobs.JobFirst@32a16ce9
+2019-02-07 13:55:33 INFO  SchedulerServiceImpl:93 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 13:55:33 INFO  SchedulerServiceImpl:74 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 13:55:56 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : UploadFile.jar   com.test.job.UploadFile@42127bb5
+2019-02-07 13:55:56 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : Listener Job   com.jobmanagement.temp.jobs.JobFirst@32a16ce9
+2019-02-07 14:05:33 INFO  StartDemo:48 - Thu Feb 07 14:05:33 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 14:05:33 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:05:33 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:05:34 INFO  ScheduleJobFormImpl:148 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:05:34 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:06:28 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:06:28 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:06:28 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:06:28 ERROR JobManagementServiceImpl:53 - Exception occured in method JobManagementServiceImpl.scheduleJob()java.lang.NullPointerException
+2019-02-07 14:08:44 INFO  StartDemo:48 - Thu Feb 07 14:08:44 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 14:08:44 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:08:44 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:08:45 INFO  ScheduleJobFormImpl:148 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:08:45 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:09:31 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:09:31 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:09:31 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:09:31 ERROR JobManagementServiceImpl:48 - Exception occured in method JobManagementServiceImpl.scheduleJob()java.lang.ClassNotFoundException: com.test.job.UploadFile
+2019-02-07 14:10:21 INFO  StartDemo:48 - Thu Feb 07 14:10:20 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 14:10:21 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:10:21 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:10:22 INFO  ScheduleJobFormImpl:147 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:10:22 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:10:46 INFO  FileUtils:53 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 14:10:52 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:10:52 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:10:52 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:10:52 INFO  SchedulerServiceImpl:182 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 14:10:52 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:10:52 INFO  SchedulerServiceImpl:34 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 14:10:52 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:10:52 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:10:52 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:11:09 INFO  JobManagementServiceWrapper:110 - List of success jobsListener Job   com.jobmanagement.temp.jobs.JobFirst@6ab4c365
+2019-02-07 14:11:18 INFO  JobManagementServiceWrapper:89 - List of queued jobs Item : UploadFile.jar  com.jobmanagement.services.SchedulerServiceImpl$JobTimer@7ac227a7
+2019-02-07 14:11:22 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : Listener Job   com.jobmanagement.temp.jobs.JobFirst@6ab4c365
+2019-02-07 14:11:46 INFO  JobManagementServiceWrapper:53 - Start of the method JobManagementServiceWrapper.checkStatusOfJob()
+2019-02-07 14:11:46 INFO  JobManagementServiceWrapper:64 - The Job is in queued and will execute it on schedule time.
+2019-02-07 14:11:46 INFO  JobManagementServiceWrapper:70 - End of the method JobManagementServiceWrapper.checkStatusOfJob()
+2019-02-07 14:12:22 INFO  SchedulerServiceImpl:92 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:12:22 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:12:55 INFO  StartDemo:48 - Thu Feb 07 14:12:55 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 14:12:56 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:12:56 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:12:56 INFO  ScheduleJobFormImpl:147 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:12:56 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:13:19 INFO  FileUtils:53 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 14:13:27 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:13:27 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:13:27 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:182 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:34 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:13:27 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:92 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:13:27 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:13:37 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : UploadFile.jar   com.test.job.UploadFile@1e806f5f
+2019-02-07 14:13:37 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : Listener Job   com.jobmanagement.temp.jobs.JobFirst@218728a3
+2019-02-07 14:13:44 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : UploadFile.jar   com.test.job.UploadFile@1e806f5f
+2019-02-07 14:13:44 INFO  JobManagementServiceWrapper:77 - List of running jobs Item : Listener Job   com.jobmanagement.temp.jobs.JobFirst@218728a3
+2019-02-07 14:18:23 INFO  StartDemo:48 - Thu Feb 07 14:18:23 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 14:18:23 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:18:23 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:18:24 INFO  ScheduleJobFormImpl:147 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:18:24 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:18:54 INFO  FileUtils:53 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 14:19:01 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:19:01 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:19:01 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:181 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:34 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 14:19:01 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:92 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:01 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:52 INFO  FileUtils:53 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 14:19:54 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:19:54 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:19:54 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:19:54 INFO  SchedulerServiceImpl:181 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 14:19:54 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:54 INFO  JobManagementServiceImpl:43 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:19:54 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:19:54 INFO  SchedulerServiceImpl:34 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 14:19:54 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:20:06 INFO  JobManagementServiceWrapper:110 - List of success jobsUploadFile.jar   com.test.job.UploadFile@33fd2d23
+2019-02-07 14:20:06 INFO  JobManagementServiceWrapper:110 - List of success jobsListener Job   com.jobmanagement.temp.jobs.JobFirst@17c63d35
+2019-02-07 14:20:19 INFO  JobManagementServiceWrapper:89 - List of queued jobs Item : UploadFile.jar  com.jobmanagement.services.SchedulerServiceImpl$JobTimer@194dab4
+2019-02-07 14:21:24 INFO  SchedulerServiceImpl:92 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:21:24 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:21:46 INFO  JobManagementServiceWrapper:110 - List of success jobsUploadFile.jar   com.test.job.UploadFile@56d61adc
+2019-02-07 14:21:46 INFO  JobManagementServiceWrapper:110 - List of success jobsListener Job   com.jobmanagement.temp.jobs.JobFirst@17c63d35
+2019-02-07 14:29:39 INFO  StartDemo:48 - Thu Feb 07 14:29:39 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\job.management.conf
+2019-02-07 14:29:40 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:29:40 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:29:40 INFO  ScheduleJobFormImpl:148 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:29:41 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:30:46 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 14:30:47 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:30:47 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:30:47 INFO  ScheduleJobFormImpl:148 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:30:48 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:31:07 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 14:31:07 INFO  CheckJobStatusFormImpl:38 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:31:07 INFO  ScheduleJobFormImpl:62 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:31:08 INFO  ScheduleJobFormImpl:148 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 14:31:08 INFO  CheckJobStatusFormImpl:68 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 14:31:29 INFO  FileUtils:53 - File UploadFile.jar is copied to UploadFile.jar
+2019-02-07 14:31:31 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:31:31 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 14:31:31 INFO  JobManagementServiceImpl:28 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:181 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:34 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:31:31 INFO  JobManagementServiceImpl:44 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:119 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:92 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 14:31:31 INFO  SchedulerServiceImpl:73 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 21:58:59 INFO  StartDemo:45 - The configuration file loaded.
+2019-02-07 21:59:02 INFO  CheckJobStatusFormImpl:43 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 21:59:02 INFO  ScheduleJobFormImpl:70 - Start of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 21:59:07 INFO  ScheduleJobFormImpl:156 - End of the method ScheduleJobFormImpl.drawScheduleJobForm()
+2019-02-07 21:59:07 INFO  CheckJobStatusFormImpl:73 - Start of the method CheckJobStatusFormImpl.draw()
+2019-02-07 22:00:16 INFO  FileUtils:61 - File ArchievingDocumentAPI.jar is copied to ArchievingDocumentAPI.jar
+2019-02-07 22:00:27 INFO  JobManagementServiceWrapper:35 - Start of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:00:27 INFO  JobManagementServiceWrapper:42 - End of the method JobManagementServiceWrapper.registrationFormData()
+2019-02-07 22:00:27 INFO  JobManagementServiceImpl:37 - Start of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:00:27 INFO  SchedulerServiceImpl:187 - Start of the method SchedulerServiceImpl.addJobToScheduler()
+2019-02-07 22:00:27 INFO  SchedulerServiceImpl:125 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:00:27 INFO  SchedulerServiceImpl:40 - Start of method  SchedulerServiceImpl.start()
+2019-02-07 22:00:27 INFO  JobManagementServiceImpl:53 - End of the method JobManagementServiceImpl.scheduleJob()
+2019-02-07 22:00:27 INFO  SchedulerServiceImpl:125 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:00:27 INFO  SchedulerServiceImpl:79 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:02:06 INFO  SchedulerServiceImpl:98 - End of method  SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:02:06 INFO  SchedulerServiceImpl:79 - Start of the method SchedulerServiceImpl.waitForNextTask()
+2019-02-07 22:02:06 INFO  Archieve:53 - Thu Feb 07 22:02:06 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\archieve.settings.conf
+2019-02-07 22:02:06 INFO  Archieve:53 - Thu Feb 07 22:02:06 IST 2019>>Configuration file failed to load >> E:\OptileWorkspace\JobManagementService\jobManagement-settings\archieve.settings.conf
+2019-02-07 22:02:06 INFO  Archieve:142 - createZipArchive threw exception: null
+2019-02-07 22:02:06 INFO  Archieve:142 - createZipArchive threw exception: null
