@@ -13,6 +13,7 @@ import org.apache.commons.logging.LogFactory;
 import com.jobmanagement.common.JobManagementConstants;
 import com.jobmanagement.interfaces.Job;
 import com.jobmanagement.interfaces.JobManagementService;
+import com.jobmanagement.interfaces.SchedulerService;
 import com.jobmanagement.main.StartDemo;
 import com.jobmanagement.models.JobInformation;
 import com.jobmanagement.models.JobStatus;
@@ -28,7 +29,7 @@ import com.jobmanagement.services.SchedulerServiceImpl;
  *
  */
 public class JobManagementServiceImpl implements JobManagementService {
-	SchedulerServiceImpl scheduler = new SchedulerServiceImpl();
+	SchedulerService scheduler = new SchedulerServiceImpl();
 
 	final static Log logger = LogFactory.getLog(JobManagementServiceImpl.class);
 
